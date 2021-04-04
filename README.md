@@ -1,1 +1,17 @@
 # ICPC-Regionals
+A-DONE
+B-DONE
+C-
+D-
+E-
+F-DONE
+G-
+H-
+I-DONE
+J-DONE
+K-DONE
+L-
+M-DONE
+N-
+O-
+p-DONE
