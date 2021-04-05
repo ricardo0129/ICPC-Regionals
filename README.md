@@ -1,5 +1,5 @@
 # ICPC-Regionals Solutions
-### Solved 9/15
+### Currently Solved 9/15
 B-DONE<br>
 C-<br>
 D-<br>
