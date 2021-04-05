@@ -1,8 +1,9 @@
-# ICPC-Regionals
+# ICPC-Regionals Solutions
+### Solved 9/15
 B-DONE<br>
 C-<br>
 D-<br>
-E-<br>
+E-DONE<br>
 F-DONE<br>
 G-<br>
 H-<br>
