@@ -1,8 +1,8 @@
 # ICPC-Regionals Solutions
-### Currently Solved 11/16
+### Currently Solved 12/16
 A-DONE<br>
 B-DONE<br>
-C-<br>
+C-DONE<br>
 D-<br>
 E-DONE<br>
 F-DONE<br>
