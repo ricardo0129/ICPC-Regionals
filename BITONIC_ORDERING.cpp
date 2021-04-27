@@ -54,8 +54,6 @@ void countInversions(){
         fenwick->update(A[i],1);
     }
 }
-ll dp[(int)3e5+1][2];
-
 
 int main() 
 {
@@ -81,16 +79,16 @@ int main()
     // cout<<endl;
     countInversions();
 
-    memset(dp,0,sizeof dp);
+    ll ans = 0;
 
     for(int i=1;i<n;i++){
         ll leftInversions,rightInversions;
         if(i==n-1) rightInversions = 0;
         else rightInversions = (postfix[i]-postfix[i+1]);
         leftInversions = prefix[i]-prefix[i-1];
-        dp[i][0] = min(dp[i-1][0],dp[i-1][1])+leftInversions;
-        dp[i][1] = min(dp[i-1][0],dp[i-1][1])+rightInversions;
+        ans += min(leftInversions,rightInversions);
     }
-    cout<<min(dp[n-1][0],dp[n-1][1])<<endl;
+    cout<<ans<<endl;
+
     return 0;
 }
