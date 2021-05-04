@@ -1,5 +1,5 @@
 # ICPC-Regionals Solutions
-### Currently Solved 12/16
+### Currently Solved 13/16
 A-DONE<br>
 B-DONE<br>
 C-DONE<br>
@@ -14,7 +14,7 @@ K-DONE<br>
 L-DONE<br>
 M-DONE<br>
 N-DONE<br>
-O-<br>
+O-DONE<br>
 P-DONE</p>
 
 
